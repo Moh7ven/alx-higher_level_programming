@@ -5,3 +5,4 @@ Module of **High-level programming** and **Python**, carried out during **Full S
 * Shell Scripts are written in Bash
 * Python Scripts are written with Python 3
 * Tested on Ubuntu 20.04 LTS
+"In this project, i learned python network part1" 
